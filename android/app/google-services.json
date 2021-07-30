@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "307284017807",
+    "project_id": "totrash-39220",
+    "storage_bucket": "totrash-39220.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307284017807:android:c78fe8c65729f9c72ce6fa",
+        "android_client_info": {
+          "package_name": "com.example.expiry_checker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307284017807-oc8mgf254rbluqu11chmapdcm3gfia50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVmJ6LqMSTWJElW9UGoLli8_ab3wgg5Ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307284017807-oc8mgf254rbluqu11chmapdcm3gfia50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
