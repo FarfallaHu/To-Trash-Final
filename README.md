@@ -18,7 +18,7 @@ https://docs.google.com/document/d/11bK4W-IoVym4r5DITirvr2RidrlNn1MyM6jZ_LLuWUs/
 
 # My task is
 
-Design UI and UI development alone with given task:
+Design UI and UI development along with given task:
 
 add feature that collects all added images of the same item or any item that matches the barcode scanner..
 
