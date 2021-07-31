@@ -1,8 +1,13 @@
 # To Trash App
+My task is
+
+add feature that collects all added images of the same item or any item that matches the barcode scanner..
+
 
 Please download APK to run on andriod.
 
 Here is my google account: farfallahudie@gmail.com Password: Thankyou12345! to check the fiebase
+
 
 I am using Visual Studio with Flutter.
 
