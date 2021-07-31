@@ -2,9 +2,7 @@
 
 Please download APK to run on andriod.
 
-Here is my google account: farfallahudie@gmail.com Password: Thankyou12345!
-
-to check the fiebase
+Here is my google account: farfallahudie@gmail.com Password: Thankyou12345! to check the fiebase
 
 I am using Visual Studio with Flutter.
 
