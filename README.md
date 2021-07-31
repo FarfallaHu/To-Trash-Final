@@ -8,7 +8,9 @@ to check the fiebase
 
 I am using Visual Studio with Flutter.
 
-command 
+open -a Simulator
+
+Flutter run
 
 
 APK Link
