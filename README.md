@@ -1,6 +1,6 @@
 # To Trash App
 
-Please download Friendly.APK to run on andriod.
+Please download APK to run on andriod.
 
 Here is my google account: farfallahudie@gmail.com Password: Thankyou12345!
 
@@ -11,6 +11,10 @@ I am using Visual Studio with Flutter.
 open -a Simulator
 
 Flutter run
+
+Or Try wirh andriod studio 
+
+Need to first upgrade dependencies. then run main.dart on andriod emulator from AVD Manager
 
 
 APK Link
